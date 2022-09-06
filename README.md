@@ -9,3 +9,4 @@ Some of the exhibits must see in the museum are African Art and indian Art of th
  Step by Step directions for travelling to the museum from the airport
  1. The distance from the Chicago Midway International airport is of 12.1 miles
  2. There will an direct cap services will be available from the airport to the musesum at regular intervels of time.
+ 3. The cheapest way to get from Chicago Midway Airport (MDW) to Art Institute of Chicago is to subway via Harold Washington Library which costs $1 - $5 and takes 34 min.
