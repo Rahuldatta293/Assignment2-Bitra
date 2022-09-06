@@ -6,5 +6,5 @@ Some of the exhibits must see in the museum are African Art and indian Art of th
 -----------------------------------
  ## Directions to reach museum
  Airport that is closest to the museum is Chicago Midway International airport
- > Step by Step directions for travelling to the museum from the airport is the distance from the Chicago Midway International airport<br>
+ Step by Step directions for travelling to the museum from the airport is the distance from the Chicago Midway International airport<br>
  is of 12.1 miles there will an direct cap services will be available from the airport to the musesum at regular intervels of time.
