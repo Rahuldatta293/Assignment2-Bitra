@@ -43,3 +43,27 @@ Author: *Swami Vivekananda*
 
 > 2. Take the stones people to throw at you, and use them to build a monument.
 Author: *Ratan Tata*
+
+*****
+
+## Code Fencing
+
+> Set custom html attribute to child element of material ui component :
+
+Let's find the answer : <https://stackoverflow.com/questions/73637978/set-custom-html-attribute-to-child-element-of-material-ui-component>
+
+```
+    <form action="iframe.php" target="my-iframe" method="post">
+			
+  <label for="text">Some text:</label>
+  <input type="text" name="text" id="text">
+			
+  <input type="submit" value="post">
+			
+</form>
+		
+<iframe name="my-iframe" src="iframe.php"></iframe>
+```
+
+Link for the snippet : <br>
+<https://css-tricks.com/snippets/html/post-data-to-an-iframe/>
