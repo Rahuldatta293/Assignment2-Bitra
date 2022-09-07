@@ -25,6 +25,8 @@ other locations to visit near to the museum
 
 ## Creating table that contain cities which are recommended to visit
 
+The below table decribes the famous locations in cities that have to be visited.
+
 | Name of the City | Location to visit in city | Amount of time to spent in location |
 | ---------------- | ------------------------- | ----------------------------------- |
 | Vijayawada       | Krishna River             |           1hour                     |
