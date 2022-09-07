@@ -21,3 +21,13 @@ other locations to visit near to the museum
 
  [Link to AboutMe](https://github.com/Rahuldatta293/Assignment2-Bitra/blob/main/AboutMe.md)
 
+*****
+
+## Creating table that contain cities which are recommended to visit
+
+| Name of the City | Location to visit in city | Amount of time to spent in location |
+| ---------------- | ------------------------- | ----------------------------------- |
+| Vijayawada       | Krishna River             |           1hour                     |
+| Hyderabad        | Charminar                 |           2hours                    |
+| Tirupathi        | Tirumala Temple           |           5hours                    |
+| Araku            | Araku vally               |           8hours                    |
