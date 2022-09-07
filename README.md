@@ -33,3 +33,13 @@ The below table decribes the famous locations in cities that have to be visited.
 | Hyderabad        | Charminar                 |           2hours                    |
 | Tirupathi        | Tirumala Temple           |           5hours                    |
 | Araku            | Araku vally               |           8hours                    |
+
+*****
+
+## Pithy Qotes Section
+
+> 1. All Power is within you; you can do anything and everything.
+Author: *Swami Vivekananda*
+
+> 2. Take the stones people to throw at you, and use them to build a monument.
+Author: *Ratan Tata*
