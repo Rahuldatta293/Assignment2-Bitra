@@ -19,4 +19,5 @@ other locations to visit near to the museum
  * Buckingham Fountain
  * Chicago Cultural Center
 
- Link to AboutMe: - https://github.com/Rahuldatta293/Assignment2-Bitra/blob/main/AboutMe.md
+ [Link to AboutMe](https://github.com/Rahuldatta293/Assignment2-Bitra/blob/main/AboutMe.md)
+
